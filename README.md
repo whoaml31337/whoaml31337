@@ -1,5 +1,3 @@
----
-
 ### 📫 Contact Me
 - **Telegram:** [@hummusje](https://t.me/hummusje)
 
